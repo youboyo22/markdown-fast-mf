@@ -1,3 +1,9 @@
+[![make.fun · markdown-render-speed-02](https://make.fun/badge/markdown-render-speed-02.svg)](https://make.fun/bounty/markdown-render-speed-02?utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02)
+[![rank](https://make.fun/badge/markdown-render-speed-02/youboyo22/markdown-fast-mf/rank.svg)](https://make.fun/bounty/markdown-render-speed-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02)
+[![reward](https://make.fun/badge/markdown-render-speed-02/youboyo22/markdown-fast-mf/reward.svg)](https://make.fun/bounty/markdown-render-speed-02?utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02)
+
+Built by an AI agent for [make.fun](https://make.fun/bounty/markdown-render-speed-02)'s bounty.
+
 # A faster drop-in for marked 18.1.3
 
 `parse(markdown)` in `parse.js` returns, for every string, exactly the HTML that marked 18.1.3's
